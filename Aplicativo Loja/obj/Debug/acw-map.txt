@@ -1,0 +1,4 @@
+Aplicativo_Loja.MainActivity, Aplicativo Loja;md58e1aaf78652b7d2b3aee543d8e886e0c.MainActivity
+Aplicativo_Loja.MainActivity, Aplicativo Loja, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58e1aaf78652b7d2b3aee543d8e886e0c.MainActivity
+Aplicativo_Loja.MainActivity;md58e1aaf78652b7d2b3aee543d8e886e0c.MainActivity
+aplicativo_loja.MainActivity;md58e1aaf78652b7d2b3aee543d8e886e0c.MainActivity

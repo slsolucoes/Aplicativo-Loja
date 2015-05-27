@@ -1,0 +1,14 @@
+c:\users\pavanello\documents\visual studio 2013\Projects\Aplicativo Loja\Aplicativo Loja\bin\Debug\Aplicativo Loja.dll
+c:\users\pavanello\documents\visual studio 2013\Projects\Aplicativo Loja\Aplicativo Loja\bin\Debug\Aplicativo Loja.pdb
+c:\users\pavanello\documents\visual studio 2013\Projects\Aplicativo Loja\Aplicativo Loja\bin\Debug\Aplicativo Loja.dll.mdb
+c:\users\pavanello\documents\visual studio 2013\Projects\Aplicativo Loja\Aplicativo Loja\bin\Debug\Aplicativo_Loja.Aplicativo_Loja.apk
+c:\users\pavanello\documents\visual studio 2013\Projects\Aplicativo Loja\Aplicativo Loja\bin\Debug\Aplicativo_Loja.Aplicativo_Loja-Signed.apk
+c:\users\pavanello\documents\visual studio 2013\Projects\Aplicativo Loja\Aplicativo Loja\obj\Debug\Aplicativo Loja.csprojResolveAssemblyReference.cache
+c:\users\pavanello\documents\visual studio 2013\Projects\Aplicativo Loja\Aplicativo Loja\obj\Debug\Aplicativo Loja.dll
+c:\users\pavanello\documents\visual studio 2013\Projects\Aplicativo Loja\Aplicativo Loja\obj\Debug\Aplicativo Loja.pdb
+c:\users\pavanello\documents\visual studio 2013\Projects\Aplicativo Loja\Aplicativo Loja\obj\Debug\android\bin\Aplicativo_Loja.Aplicativo_Loja.apk
+c:\users\pavanello\documents\visual studio 2013\Projects\Aplicativo Loja\Aplicativo Loja\obj\Debug\res\layout\main.xml
+c:\users\pavanello\documents\visual studio 2013\Projects\Aplicativo Loja\Aplicativo Loja\obj\Debug\res\values\strings.xml
+c:\users\pavanello\documents\visual studio 2013\Projects\Aplicativo Loja\Aplicativo Loja\obj\Debug\res\drawable\icon.png
+c:\users\pavanello\documents\visual studio 2013\Projects\Aplicativo Loja\Aplicativo Loja\obj\Debug\R.cs.flag
+c:\users\pavanello\documents\visual studio 2013\Projects\Aplicativo Loja\Aplicativo Loja\obj\Debug\uploadflags.txt
